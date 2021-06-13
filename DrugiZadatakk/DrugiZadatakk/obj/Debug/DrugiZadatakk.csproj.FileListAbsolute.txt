@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\DrugiZadatakk\DrugiZadatakk\bin\Debug\DrugiZadatakk.exe.config
+C:\Users\Laris\source\repos\DrugiZadatakk\DrugiZadatakk\bin\Debug\DrugiZadatakk.exe
+C:\Users\Laris\source\repos\DrugiZadatakk\DrugiZadatakk\bin\Debug\DrugiZadatakk.pdb
+C:\Users\Laris\source\repos\DrugiZadatakk\DrugiZadatakk\obj\Debug\DrugiZadatakk.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\DrugiZadatakk\DrugiZadatakk\obj\Debug\DrugiZadatakk.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\DrugiZadatakk\DrugiZadatakk\obj\Debug\DrugiZadatakk.exe
+C:\Users\Laris\source\repos\DrugiZadatakk\DrugiZadatakk\obj\Debug\DrugiZadatakk.pdb
